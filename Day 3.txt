@@ -1,7 +1,6 @@
 PYTHON PATTERN PROGRAMS
 -----------------------
 
-
 1] Series Program
 
 This program calculates the sum of the series:
