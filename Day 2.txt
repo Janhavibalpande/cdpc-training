@@ -1,7 +1,7 @@
 PYTHON BASIC PROGRAMS
 
 1. Check Whether a Number is Even or Odd
-----------------------------------------
+---------------------------------------
 This program checks if the given number is even or odd.
 
 no = int(input("Enter a number: "))
